@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!My name is Jay, I'm a Computer Science student, and I love learning and gaining new knowledge..</h2>
+<h2 align="left">Hi 👋! My name is Jay, I'm a Computer Science student, and I love learning and gaining new knowledge..</h2>
 
 ###
 
