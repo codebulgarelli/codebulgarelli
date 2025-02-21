@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jay, I'm a Computer Science student, and I love learning and gaining new knowledge.</h2>
+<h2 align="left">Hi 👋!My name is Jay, I'm a Computer Science student, and I love learning and gaining new knowledge..</h2>
 
 ###
 
@@ -36,16 +36,10 @@
 ###
 
 <div align="left">
-  <a href="jubmarmo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/julie-anne-bulgarelli-marmo" target="_blank">
+  <a href="https://www.linkedin.com/in/julie-anne-bulgarelli-marmo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="11961177612" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="ko-fi.com/codebulgarelli" target="_blank">
+  <a href="https://ko-fi.com/codebulgarelli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
